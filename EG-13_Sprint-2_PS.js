@@ -141,8 +141,8 @@ function lengthOfLongestSubstring(s) {
     }
     return longestLength;
 }
-const result = lengthOfLongestSubstring("abcabcbb");
-console.log(result)
+// const result = lengthOfLongestSubstring("abcabcbb");
+// console.log(result)
 
 //10. Deep Clone an Object
 function deepClone(obj) {
@@ -161,11 +161,11 @@ function deepClone(obj) {
 
     return clonedObject;
 }
-const original = {
-    a: 1,
-    b: {
-        c: 2
-    }
-};
+// const original = {
+//     a: 1,
+//     b: {
+//         c: 2
+//     }
+// };
 // const cloned = deepClone(original);
 // console.log(cloned);
