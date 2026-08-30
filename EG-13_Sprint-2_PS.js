@@ -167,5 +167,5 @@ const original = {
         c: 2
     }
 };
-const cloned = deepClone(original);
-console.log(cloned);
+// const cloned = deepClone(original);
+// console.log(cloned);
